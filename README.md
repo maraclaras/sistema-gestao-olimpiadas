@@ -35,7 +35,7 @@ João Paulo Carneiro Aramuni
    - Como um administrador, quero exportar o relatório de medalhas em diferentes formatos, para que eu possa compartilhar os dados com outros membros da organização.
      
 # Diagrama de Casos de Uso
-<img width="1000px" height="400px" src="https://github.com/maraclaras/sistema-gestao-olimpiadas/blob/main/DiagramaCasosDeUso.drawio.png"/>
+<img width="1500px" height="400px" src="https://github.com/maraclaras/sistema-gestao-olimpiadas/blob/main/DiagramaCasosDeUso.drawio.png"/>
 
 # Diagrama de Classes
 <img width="900px" height="400px" src=""/>
