@@ -37,11 +37,9 @@ João Paulo Carneiro Aramuni
 # Diagrama de Casos de Uso
 <img width="1500px" height="600px" src="https://github.com/maraclaras/sistema-gestao-olimpiadas/blob/main/DiagramaCasosDeUso.drawio.png"/>
 
-# Diagrama de Classes
-<img width="900px" height="400px" src=""/>
+# Diagrama de Classes e Pacotes
+<img width="900px" height="400px" src="https://github.com/maraclaras/sistema-gestao-olimpiadas/blob/main/DiagramaClassesePacotes.drawio.png"/>
 
-# Diagrama de Pacotes
- <img width="900px" height="400px" src=""/>
  
 # Diagrama de Componentes 
 <img width="900px" height="400px" src="https://github.com/maraclaras/sistema-gestao-olimpiadas/blob/main/DiagramaDeComponentes.drawio.png"/>
