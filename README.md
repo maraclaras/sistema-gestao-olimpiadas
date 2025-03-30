@@ -35,15 +35,15 @@ João Paulo Carneiro Aramuni
    - Como um administrador, quero exportar o relatório de medalhas em diferentes formatos, para que eu possa compartilhar os dados com outros membros da organização.
      
 # Diagrama de Casos de Uso
-<img width="1500px" height="600px" src="https://github.com/maraclaras/sistema-gestao-olimpiadas/blob/main/DiagramaCasosDeUso.drawio.png"/>
+<img width="1500px" height="600px" src="https://github.com/maraclaras/sistema-gestao-olimpiadas/blob/main/Imagens/DiagramaCasosDeUso.drawio.png"/>
 
 # Diagrama de Classes e Pacotes
-<img width="900px" height="400px" src="https://github.com/maraclaras/sistema-gestao-olimpiadas/blob/main/DiagramaClassesePacotes.drawio.png"/>
+<img width="900px" height="400px" src="https://github.com/maraclaras/sistema-gestao-olimpiadas/blob/main/Imagens/DiagramaClassesePacotes.drawio.png"/>
 
  
 # Diagrama de Componentes 
-<img width="900px" height="400px" src="https://github.com/maraclaras/sistema-gestao-olimpiadas/blob/main/DiagramaDeComponentes.drawio.png"/>
+<img width="900px" height="400px" src="https://github.com/maraclaras/sistema-gestao-olimpiadas/blob/main/Imagens/DiagramaDeComponentes.drawio.png"/>
 
 # Diagrama de Implantação 
-<img width="900px" height="400px" src="https://github.com/maraclaras/sistema-gestao-olimpiadas/blob/main/DiagramaDeImplantacao.drawio.png"/>
+<img width="900px" height="400px" src="https://github.com/maraclaras/sistema-gestao-olimpiadas/blob/main/Imagens/DiagramaDeImplantacao.drawio.png"/>
 
