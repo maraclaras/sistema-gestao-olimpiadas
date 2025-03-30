@@ -35,8 +35,8 @@ João Paulo Carneiro Aramuni
    - Como um administrador, quero exportar o relatório de medalhas em diferentes formatos, para que eu possa compartilhar os dados com outros membros da organização.
  
 # Diagrama de Componentes 
-<img width="800px" height="500px" src="https://github.com/maraclaras/sistema-gestao-olimpiadas/blob/main/DiagramaDeComponentes.drawio.png"/>
+<img width="900px" height="400px" src="https://github.com/maraclaras/sistema-gestao-olimpiadas/blob/main/DiagramaDeComponentes.drawio.png"/>
 
 # Diagrama de Implantação 
-<img width="800px" height="500px" src="hhttps://github.com/maraclaras/sistema-gestao-olimpiadas/blob/main/DiagramaDeImplantacao.drawio.png"/>
+<img width="900px" height="400px" src="https://github.com/maraclaras/sistema-gestao-olimpiadas/blob/main/DiagramaDeImplantacao.drawio.png"/>
 
