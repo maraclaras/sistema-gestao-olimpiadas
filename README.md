@@ -33,6 +33,15 @@ João Paulo Carneiro Aramuni
    - Como um administrador, quero gerar um relatório de medalhas, para que o desempenho de cada país seja acompanhado.
 * US10 - Exportação de Relatórios
    - Como um administrador, quero exportar o relatório de medalhas em diferentes formatos, para que eu possa compartilhar os dados com outros membros da organização.
+     
+# Diagrama de Casos de Uso
+<img width="900px" height="400px" src=""/>
+
+# Diagrama de Classes
+<img width="900px" height="400px" src=""/>
+
+# Diagrama de Pacotes
+ <img width="900px" height="400px" src=""/>
  
 # Diagrama de Componentes 
 <img width="900px" height="400px" src="https://github.com/maraclaras/sistema-gestao-olimpiadas/blob/main/DiagramaDeComponentes.drawio.png"/>
