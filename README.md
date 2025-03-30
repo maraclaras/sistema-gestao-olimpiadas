@@ -1,5 +1,5 @@
 # Sistema de Gestão das Olimpíadas (SGO)
-Este repositório contém o trabalho em dupla realizado para a disciplina "Projeto de SOftware", do 4º período do curso de Engenharia de Software da PUC - Minas.
+Este repositório contém o trabalho em dupla realizado para a disciplina "Projeto de Software", do 4º período do curso de Engenharia de Software da PUC - Minas.
 
 # Integrantes
 * Débora Campos Sigaud
